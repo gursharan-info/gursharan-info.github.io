@@ -1,0 +1,31 @@
+# Experience template
+- layout: left
+  company: Netsmartz Infotech
+  # link: Link to company (optional)
+  job_title: Technical Lead, AI & ML
+  dates: Date Range (eg. June 2018 - present)
+  # quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+      - Driving the vision & strategy for AI & ML at Netsmartz leading a Team of Machine Learning Engineers and Python Full Stack Developers
+      - Technical architect responsible to architect PoC’s and applications based on:
+        - Computer Vision
+        - Machine Learning
+        - Natural Language Understanding, Processing and Generation
+        - Predictive Analysis
+        - Recommendation Engines
+- layout: left
+  company: Excise and Taxation Department, Chandigarh
+  # link: Link to company (optional)
+  job_title: Data Mining Expert
+  dates: Date Range (eg. November 2018 - May 2019)
+  # quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+      - Driving the vision & strategy for AI & ML at Netsmartz leading a Team of Machine Learning Engineers and Python Full Stack Developers
+      - Technical architect responsible to architect PoC’s and applications based on:
+        - Computer Vision
+        - Machine Learning
+        - Natural Language Understanding, Processing and Generation
+        - Predictive Analysis
+        - Recommendation Engines
