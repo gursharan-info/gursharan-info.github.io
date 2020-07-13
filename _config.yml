@@ -46,7 +46,16 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: "assets/images/gursharan_crop.jpg"
 about_content: | # this will include new lines to allow paragraphs
-  AI-ML MANAGER · TEAM LEAD · DATA MANAGER · PROGRAMMER · RESEARCHER · CURIOUS LEARNER 
+  An inspired Technical Leader with 6+ years of broad expertise in Full Stack development using Python, Node, Angular & Raact. A data management, processing <mark>ETL</mark> specialist with a willingness to expand in large scale data streaming, machine learning implementations. 
+  ## Key Domains I've worked in:
+   - Healthcare Data Management (ETL)
+   - Taxation Data Management (ETL)
+   - Insurance Data Management (ETL)
+   - Elderly Care Data (ETL & ML models)
+   - Sales Data (ETL & ML models)
+   - Speech processing & Intelligent Voice Assisted systems
+   - Django, Flask based back-ends, API's
+   - Front-end, hybrid mobile applications in <mark>Angular</mark>, Ionic, <mark>React-native</mark>
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)

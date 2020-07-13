@@ -1,0 +1,28 @@
+<div class="row clearfix layout layout-left">
+  <div class="col-xs-12 col-sm-4 col-md-4 col-print-12 details">
+    {%- if include.item.name -%}<h4>{{ include.item.name }}</h4>{%- endif -%}
+  </div>
+  <div class="col-xs-4 col-sm-2 col-md-3 col-print-3 details">
+    {%- if include.item.company -%}<h4>{{ include.item.company }}</h4>{%- endif -%}
+    {%- if include.item.link -%}
+      {% include a.html href=include.item.link class="link" %}{{ include.item.link }}</a>
+    {%- endif -%}
+    {%- if include.item.job_title -%}<p><b>{{ include.item.job_title }}</b></p>{%- endif -%}
+    {%- if include.item.qualification -%}<p><b>{{ include.item.qualification }}</b></p>{%- endif -%}
+  </div>
+  <div class="col-xs-4 col-sm-4 col-md-3 col-print-3 details">
+    {%- if include.item.quote -%}
+      <p class="quote" style="padding: 0rem;">{{ include.item.quote }}</p>
+    {%- endif -%}
+  </div>
+  <div class="col-xs-4 col-sm-2 col-md-2 col-print-4 details">
+    {%- if include.item.dates -%}<p>{{ include.item.dates }}</p>{%- endif -%}
+    {% for job in include.item.jobs %}
+      <p><b>{{ job.title }}</b></p>
+      <p>{{ job.dates }}</p>
+    {% endfor %}
+  </div>
+  <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
+    <p style="padding: 1rem;">{{ include.item.description | strip | markdownify }}</p>
+  </div>
+</div>
