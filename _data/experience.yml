@@ -3,7 +3,7 @@
   company: Netsmartz Infotech
   # link: Link to company (optional)
   job_title: Technical Lead, AI & ML
-  dates: Date Range (eg. June 2018 - present)
+  dates: June 2018 - present <br/><i>(Full Time)</i>
   # quote: >
   #  Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
@@ -14,18 +14,71 @@
         - Natural Language Understanding, Processing and Generation
         - Predictive Analysis
         - Recommendation Engines
+
 - layout: left
-  company: Excise and Taxation Department, Chandigarh
+  company: Excise and Taxation Department
   # link: Link to company (optional)
   job_title: Data Mining Expert
-  dates: Date Range (eg. November 2018 - May 2019)
-  # quote: >
-  #  Short description of the company (optional)
+  dates: November 2018 - May 2019 <br/><i>(Fixed Term Contract)</i>
+  quote: >
+    Responsible for handling GST related data of U.T Chandigarh
   description: | # this will include new lines to allow paragraphs
-      - Driving the vision & strategy for AI & ML at Netsmartz leading a Team of Machine Learning Engineers and Python Full Stack Developers
-      - Technical architect responsible to architect PoC’s and applications based on:
-        - Computer Vision
-        - Machine Learning
-        - Natural Language Understanding, Processing and Generation
-        - Predictive Analysis
-        - Recommendation Engines
+    My job here was not limited to, but included the following tasks:
+    - Build Data Pipelines for ETL(Extract, Transform & Load) operations on data received from the central GST portal
+    - Management of state-wise taxation data received from central GST Network Portal
+    - Separate pipelines to generate different kind of reports (for each ward in the state) and the required data-sets using complex Oracle SQL queries in conjunction with Python scripts
+    - Basic predictive analysis base on behavioral / transactional features of taxpayer
+    - Technologies used: Python, Pandas, Oracle SQL, SQLAlchemy, Scikit-Learn, Matplotlib
+
+- layout: left
+  company: Sidekick EDGE Private Ltd
+  # link: Link to company (optional)
+  job_title: Technical Consultant
+  dates: December 2016 - December 2017 <br/><i>(Part Time Consultancy)</i>
+  quote: >
+    (Role: Data Science, Front-end Development)
+  description: | # this will include new lines to allow paragraphs
+    - Help in database structuring and designing
+    - Development of complete front-end in AngularJS for the company product/platform
+    - Managed a team of interns, developers responsible for front-end and back-end development
+    - Development of Mobile Application for the platform
+    - This platform is being used for multi-mode data collection in PGIMER and some other healthcare establishments
+    - Technologies used: AngularJS for frontend, Loopback.io, Nodejs for backend, MySQL database and Ionic for Mobile Application
+    - Domains worked in: Frontend Development, Hybrid Mobile Application Development, Data Visualization, Data Analysis, Basic Predictions (Machine Learning)
+
+- layout: left
+  company: School of Public Health, PGIMER
+  # link: Link to company (optional)
+  job_title: Data Manager
+  dates: December 2016 - May 2018 <br/><i>(Fixed Term Contract)</i>
+  quote: >
+    in research project entitled "Haryana Demonstration Project on Wheat Flour Fortification to improve Iron, Folate and Vitamin B12 status in Ambala District" funded by WHO, India and CDC, USA
+  description: | # this will include new lines to allow paragraphs
+    - Designed and developed web-based application for survey data entry (with error checks & skip patterns) in Python
+    - Developed data entry manual, trained the data entry personnel and supervised the data entry session
+    - Optimization of mobile app (Ionic / AngularJS) linked with the web tracking system to record timestamps of sample collection and processing
+    - Perform dual data entry, check data output, data validations and checks to maintain accurate data on computer systems and in archives and take regular data backups
+    - Performed cleaning of compiled data sets after completion of data entry, the overall ETL (Extract, Transform, Load) process from two prime data sources, survey data and bio-sample data
+    - Data analysis (univariate, multivariate) and assisted the statistician in preparing final outcome tables
+    - Participated in visualizing the analysis outcomes and help to pen down the interpretations and the final report writing & editing process
+    - This base-line survey proved to be instrumental for Haryana government to implement the Policy of providing Wheat Flour fortified with Iron, Folic Acid, Vitamin B12 through PDS
+    - Technologies used: Python (Django, Pandas, Numpy, Scikit Learn), R Studio, Javascript (AngularJS/Ionic), Tableau, SPSS
+    - Domains worked in: Mobile/Cloud based survey development, Data Management, ETL, Data Analysis (Python, R)
+
+- layout: left
+  company: Ecologic Corporation
+  # link: Link to company (optional)
+  job_title: Senior Developer
+  dates: April 2015 - November 2016  <br/><i>(Full Time)</i>
+  # quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    - Design and implementation of moderately complex software solutions using multiple platforms (mobile and web).
+    - Design and manage complex database architectures (MySQL, PostgreSQL). 
+    - Building Data Extraction (Mining) processes, Transformation, Loading (ETL) from multi-dimensional databases / data stores and data exchange pipelines. 
+    - Performed basic data analysis, data visualization, showing insights using Python (matplotlib, plot.ly), Javascript (D3.js)
+    - Code documentation, configuration management and deep level of debugging
+    - Fair degree of testing the technical scenarios (manually)
+    - User, Class, Network & System Architecture modelling as per technical scenarios
+    - Technologies used: PHP (Codeigniter, Zend), Javascript (AngularJS, Ionic, D3.js), Python (Django, Numpy, Pandas, Matplotlib, Scrapy), Nodejs, GIT, MySQL, PostgreSQL
+    - Domains worked in: Hybrid Mobile Application Development, Natural Language Processing, Web

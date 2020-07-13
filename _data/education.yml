@@ -1,9 +1,34 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: BBSB Engineering College
+  dates: 2011 - 2016 
+  qualification: Masters of Technology
   quote: >
-    Short institution or course description (optional)
+    specialisation in Information Technology
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    My masters thesis work was in the NLP domain, which carried out partially while working at Ecologic Corporation. This thesis was the turning point when I started working in Python and slowly transitioned from PHP.
+
+- layout: left
+  name: Nalsar Proximate Education (Nalsar University of Law)
+  dates: 2013 - 2014 <br/><i>(Correspondence)</i>
+  qualification: Post Graduate Diploma in Cyber Laws
+  # quote: >
+  #   Short institution or course description (optional)
+  # description: | # this will include new lines to allow paragraphs
+  #   My masters thesis work was in the NLP domain, which carried out partially while working at Ecologic Corporation. This thesis was the turning point when I started working in Python and slowly transitioned from PHP.
+
+- layout: left
+  name: Institute of Engineering & Technology
+  dates: 2008 - 2011
+  qualification: Bachelors of Technology
+  quote: >
+    specialisation in Information Technology
+  # description: | # this will include new lines to allow paragraphs
+
+- layout: left
+  name: Thapar Polytechnic College
+  dates: 2005 - 2008
+  qualification: Diploma
+  quote: >
+    specialisation in Computer Science
+  # description: | # this will include new lines to allow paragraphs
