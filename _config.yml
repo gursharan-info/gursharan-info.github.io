@@ -46,7 +46,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: "assets/images/gursharan_crop.jpg"
 about_content: | # this will include new lines to allow paragraphs
-  An inspired Technical Leader with 6+ years of broad expertise in Full Stack development using Python, Node, Angular & Raact. A data management, processing <mark>ETL</mark> specialist with a willingness to expand in large scale data streaming, machine learning implementations. 
+  An inspired Technical Leader with 5+ years of broad expertise in Full Stack development using Python, Node, Angular & Raact. A data management, processing <mark>ETL</mark> specialist with a willingness to expand in large scale data streaming, machine learning implementations. 
   ## Key Domains I've worked in:
    - Healthcare Data Management (ETL)
    - Taxation Data Management (ETL)
