@@ -1,9 +1,27 @@
 # Experience template
 - layout: left
+  company: Bharti Institute of Public Policy, <br/> Indian School of Business
+  # link: Link to company (optional)
+  job_title: Technical Lead, AI & ML
+  dates: November 2020 - Present <br/><i>(Full Time)</i>
+  # quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+      - Perform hands-on data analysis and modeling with huge data sets for the India Data Portal (IDP)
+      - Discover data sources, import them, clean them up, and make them “portal-ready”
+      - Statistical modeling, model fitting, machine learning, data mining on large datasets
+      - Research and work with Data Engineering and Architecture teams to implement new technologies that will facilitate better data integrity, reliability, and enrichment of the portal
+      - Run regular tests and statistical analysis, draw conclusions on the accuracy of the data
+      - Dive deep into a wide range of data (agricultural, financial, etc.) to identify opportunities and recommend solutions.
+      - Assess the effectiveness and accuracy of new data and data gathering techniques.
+      - Perform ad hoc data mining, exploration, and statistical analyses on complex problem statements
+      - Write ETL pipelines to make data available for training and testing models both offline and in production.
+      - Working with Geo spatial and Satellite data and linking to economic indicators
+- layout: left
   company: Netsmartz Infotech
   # link: Link to company (optional)
   job_title: Technical Lead, AI & ML
-  dates: June 2018 - present <br/><i>(Full Time)</i>
+  dates: June 2019 - October 2020 <br/><i>(Full Time)</i>
   # quote: >
   #  Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
